@@ -5,5 +5,6 @@ public class TeamApp{
         System.out.println("Feature added by Student A and B!");
         System.out.println("Try again!");
         System.out.println("Double push");
+        System.out.println("Another line of dialogue to pull...");
     }
 }
